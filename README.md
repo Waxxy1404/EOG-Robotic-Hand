@@ -14,6 +14,10 @@ The project was developed incrementally across **4 sketches**, from basic I/O to
 
 ## Main Aquisition Circuit
 
+<div align="center">
+<img src="./images/circuit.jpeg" width="30%"/>
+<img src="./images/circuit1.jpeg" width="30%"/>
+</div>
 
 ---
 
