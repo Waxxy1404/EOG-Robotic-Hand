@@ -12,6 +12,9 @@ Eye movements generate small electrical potentials measurable on the skin around
 
 The project was developed incrementally across **4 sketches**, from basic I/O to full EOG-controlled gesture recognition.
 
+## Main Aquisition Circuit
+
+
 ---
 
 ## 🗺️ Development Stages
